@@ -1,0 +1,23 @@
+                                1) npm init 
+                    npm init for package.json (for simply we can use the command "npm init -y")
+                    in package.json remove the line test and add '  "start": "node index.js"  '
+                               
+                               2)file creation
+                    1. create a json file name called db.json (for store the api) // paste the api data here 
+                    2.index.js
+
+                               3) "npm i json-server@0.17.4" command on terminal (this is for node modules ) 
+
+                               4)imports in index.js
+                    1. const jsonServer = require ('json-server')
+
+                               5) 
+                    1. create backend server application using json-server
+                    2. setup path for db.json
+                    ;;
+                    ;;
+                    
+                    
+                               6) npm start
+
+                               7)go to frontend 
